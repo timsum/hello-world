@@ -1,7 +1,7 @@
 # hello-world
 A hello world project to start things off.
 
-I'm working on a project to develop a notation for harmony, in binary, similar to figured bass and jazz charts. The computer should be able to analyze a chord *and* its function, and thus extrapolate (improvise) based on any input -- especially gesture and situation-tension.
+I'm working on a project to develop a notation for harmony, in binary, similar to figured bass and jazz charts. The computer should be able to analyze a chord *and* its function, and thus extrapolate (improvise) based on any input -- especially gesture- and situation-tension.
 
 The system is largely built, from an algorithmic point of view, and at present working in C as a Puredata external. 
 
